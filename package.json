@@ -1,0 +1,17 @@
+{
+  "name": "add-device",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@chirpstack/chirpstack-api": "^4.9.0-test.6",
+    "@grpc/grpc-js": "^1.11.1",
+    "express": "^4.19.2"
+  }
+}
